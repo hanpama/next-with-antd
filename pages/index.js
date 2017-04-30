@@ -1,5 +1,5 @@
 import * as React from 'react';
-import stylesheet from '../node_modules/antd/dist/antd.css'
+import stylesheet from 'antd/dist/antd.min.css'
 
 import { Layout, Menu, Breadcrumb, Icon } from 'antd';
 
