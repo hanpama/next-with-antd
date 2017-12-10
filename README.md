@@ -1,4 +1,4 @@
-# Next With Antd
+# Next with Antd
 
 A simple example for showing how to initialize your frontend project with next.js and antd.
 
