@@ -12,11 +12,11 @@
   },
   "license": "ISC",
   "dependencies": {
-    "antd": "^3.8.1",
-    "babel-plugin-import": "^1.8.0",
+    "antd": "^3.15.1",
+    "babel-plugin-import": "^1.11.0",
     "babel-plugin-inline-import": "^3.0.0",
     "next": "latest",
-    "react": "^16.4.2",
-    "react-dom": "^16.4.2"
+    "react": "^16.8.4",
+    "react-dom": "^16.8.4"
   }
 }
