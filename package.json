@@ -12,10 +12,10 @@
   },
   "license": "ISC",
   "dependencies": {
-    "antd": "^3.26.0",
+    "antd": "^3.26.6",
     "babel-plugin-import": "^1.13.0",
     "babel-plugin-inline-import": "^3.0.0",
-    "next": "latest",
+    "next": "^9.1.7",
     "react": "^16.12.0",
     "react-dom": "^16.12.0"
   }
